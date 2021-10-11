@@ -62,3 +62,8 @@ li:first-letter {
   position: relative;
   top: -22px;
 }
+
+.weather-temperature .active {
+  color: black;
+  cursor: default;
+}
