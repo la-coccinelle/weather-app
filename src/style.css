@@ -67,3 +67,22 @@ li:first-letter {
   color: black;
   cursor: default;
 }
+
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.weather-forecast-day {
+  font-size: 16px;
+  color: #000;
+  opacity: 0.8;
+}
+
+.weather-forecast-temperature {
+  font-size: 13px;
+}
+
+.weather-forecast-temperature-min {
+  opacity: 0.8;
+}
